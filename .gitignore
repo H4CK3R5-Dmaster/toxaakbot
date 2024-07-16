@@ -1,3 +1,6 @@
 /configs.json
 
 configs.json
+
+/securekeys/*
+/backups/*
