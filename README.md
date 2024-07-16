@@ -3,7 +3,7 @@
 
 # INSTALLATIONS
 
-[^1]: Ouvrir un terminal et utiliser la commande suivante :
+[1]: Ouvrir un terminal et utiliser la commande suivante :
 
 ```bash
 git clone https://github.com/H4CK3R5-Dmaster/toxaakbot
@@ -11,7 +11,7 @@ cd toxaakbot
 npm install
 ```
 
-[^2]: Créer un fichier configs.json sous la structure suivante :
+[2]: Créer un fichier configs.json sous la structure suivante :
 
 ```json
 {
@@ -19,7 +19,7 @@ npm install
 }
 ```
 
-[^3]: Pour démarrer :
+[3]: Pour démarrer :
 
 ```bash
 node .
